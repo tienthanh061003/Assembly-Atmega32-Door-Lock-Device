@@ -1,2 +1,4 @@
 Circuit same as the Proteus file
-Device use EEPROM to initialize password when device first running
+The device use EEPROM to initialize the password when the device first running
+Language: Assembly
+Device: Atmega32
